@@ -1,4 +1,4 @@
-# Banking Transaction Analytics Dashboard
+# Banking Transaction Analytics Dashboard using Power BI
 
 ### Dashboard Link : *(Add your Power BI Dashboard Link here)*
 
